@@ -1,0 +1,70 @@
+[
+    {
+      "id":1,
+      "mooring": {
+        "area": "high",
+        "region": "sydney"
+      },
+      "vessel": {
+        "hin": 123456,
+        "length": 7.8,
+        "regoExpiry": "19-07-2020"
+      },
+      "customer": {
+        "licNo": 23000,
+        "name": "Zlatan Ibrahimovic",
+        "address": "Malmo St,Rockdale"
+      }
+    },
+    {
+      "id":2,
+      "mooring": {
+        "area": "medium",
+        "region": "Botany Bay"
+      },
+      "vessel": {
+        "hin": 789564,
+        "length": 8.6,
+        "regoExpiry": "25-08-2020"
+      },
+      "customer": {
+        "licNo": 84000,
+        "name": "Divakar Raut",
+        "address": "Sir Alex Way,Gregory Hills"
+      }
+    },
+    {
+      "id":3,
+      "mooring": {
+        "area": "low",
+        "region": "murray"
+      },
+      "vessel": {
+        "hin": 6789587,
+        "length": 6.2,
+        "regoExpiry": "18-04-2021"
+      },
+      "customer": {
+        "licNo": 4300,
+        "name": "Borat Sachdev",
+        "address": "azamat st, Surry Hills"
+      }
+    },{
+      "id":4,
+      "mooring": {
+        "area": "high",
+        "region": "sydney"
+      },
+      "vessel": {
+        "hin": 64587658,
+        "length": 13.5,
+        "regoExpiry": "09-09-2020"
+      },
+      "customer": {
+        "licNo": 28697,
+        "name": "Gabriel Jesus",
+        "address": "rock st, Dubbo"
+      }
+    }
+  ]
+  
